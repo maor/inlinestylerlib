@@ -10,7 +10,7 @@
  * 		* CURL extension enabled
  * 
  * 
- * @author 		Maor Hazan <maorhaz@gmail.com>
+ * @author 		Maor (Henry) Hazan <maorhaz@gmail.com>
  * @package 	InlineStylerAPI
  * @version		1.0
  * @license		http://opensource.org/licenses/gpl-2.0.php GNU Public License
